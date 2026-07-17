@@ -1,0 +1,89 @@
+{
+    "edges": [
+        {
+            "node": {
+                "id": "gid://shopify/Product/10320602071322",
+                "title": "SILLAIDゴルフレーザー距離計VES1/VES2",
+                "handle": "golf-rangefinder-sillaid-ves1",
+                "status": "ACTIVE",
+                "variants": {
+                    "edges": [
+                        {
+                            "node": {
+                                "price": "32980.00"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "node": {
+                "id": "gid://shopify/Product/10320602136858",
+                "title": "SILLAIDゴルフレーザー距離計VOYAGE PRO",
+                "handle": "golf-rangefinder-voyage-pro-white",
+                "status": "ACTIVE",
+                "variants": {
+                    "edges": [
+                        {
+                            "node": {
+                                "price": "23980.00"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "node": {
+                "id": "gid://shopify/Product/10320602169626",
+                "title": "SILLAIDゴルフレーザー距離計VOYAGE/VOYAGE PRO",
+                "handle": "golf-rangefinder-voyage-white",
+                "status": "UNLISTED",
+                "variants": {
+                    "edges": [
+                        {
+                            "node": {
+                                "price": "15980.00"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "node": {
+                "id": "gid://shopify/Product/10320602202394",
+                "title": "ゴルフレーザー距離計K2",
+                "handle": "golf-rangefinder-k2",
+                "status": "ACTIVE",
+                "variants": {
+                    "edges": [
+                        {
+                            "node": {
+                                "price": "22980.00"
+                            }
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "node": {
+                "id": "gid://shopify/Product/10320602300698",
+                "title": "ゴルフレーザー距離計K1",
+                "handle": "golf-rangefinder-k1",
+                "status": "ACTIVE",
+                "variants": {
+                    "edges": [
+                        {
+                            "node": {
+                                "price": "12980.00"
+                            }
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
