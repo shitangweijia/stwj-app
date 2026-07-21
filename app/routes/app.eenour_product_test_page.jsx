@@ -89,6 +89,15 @@ export default function EENOURProductTestPage() {
             ) : (
                 <p>没有找到产品</p>
             )}
+
+            <div onClick={testFunction}>
+                点击打印
+            </div>
+            
         </div>
     );
+}
+
+export function testFunction(){
+    console.log('123')
 }
