@@ -19,6 +19,7 @@ export default function App() {
         <s-link href="/app">Home</s-link>
         <s-link href="/app/additional">Additional page</s-link>
         <s-link href="/app/eenour_product_test_page">EENOUR产品测试页</s-link>
+        <s-link href="/app/test_page">组件测试页</s-link>
       </s-app-nav>
       <Outlet />
     </AppProvider>

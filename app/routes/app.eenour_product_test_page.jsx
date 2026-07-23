@@ -90,14 +90,14 @@ export default function EENOURProductTestPage() {
                 <p>没有找到产品</p>
             )}
 
-            <div onClick={testFunction}>
+            <button onClick={testFunction}>
                 点击打印
-            </div>
+            </button>
             
         </div>
     );
 }
 
-export function testFunction(){
+function testFunction(){
     console.log('123')
 }
